@@ -1,3 +1,14 @@
-script ini exclusive di buat dan di gunakan untuk beberapa orang saja
-Jangan sebar sc ini ke siapapun bagi orang "khusus" yang mendapatkan akses
-Thanks To All
+Jika DDOS Gunakan http/https jangan langsung url :
+contoh salah : attack goggle.com 1 tls
+contoh benar : attack https://goggle.com 1 tls
+
+
+ingin cepat menggunakan toolsnya tapi tidak ingin getkey?
+Beli Key premium aja cuy langsung pakai :
+
+1 Hari : 5k
+3 Hari : 8k
+5 Hari : 13k
+7 hwri : 15k
+
+Jika ingin project ini tetap update silahkan beli key sebanyak banyaknya
